@@ -5,9 +5,6 @@ Based on the research paper content and best practices for GitHub documentation,
 
 # Algorithmic Predatory Equilibrium: MARL-Based Market Manipulation Simulation
 
-[
-[
-[
 
 ## Overview
 
@@ -212,7 +209,7 @@ The simulation extends prior work on MEV extraction  by integrating behavioral f
 
 This simulation is a part of my research, upon publication an update will be made regarding citing the paper properly , which would always be appreciated
 
-}
+
 ```
 
 ## License
