@@ -201,6 +201,7 @@ The simulation extends prior work on MEV extraction  by integrating behavioral f
 
 ## Supporting Visuals
 https://github.com/Shrey6876/APE-MARL-Simulation/blob/1b90d35ddafdb3e2a1f9ac1b833f5951ac8aca5b/Marl-supporting-1.jpg
+https://github.com/Shrey6876/APE-MARL-Simulation/blob/c06a2fb1ca64f3dd4238914571c859baf79086ee/MARL-SUPPORTING-2.jpg
 
 
 ## Citation
