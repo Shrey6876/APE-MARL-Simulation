@@ -199,6 +199,9 @@ This simulation implements the theoretical framework and empirical validation me
 
 The simulation extends prior work on MEV extraction  by integrating behavioral finance parameters (prospect theory with λ=2.25) and demonstrating that the presence of loss-averse retail traders amplifies predator profitability through behavioral triggering strategies. 
 
+## Supporting Visuals
+Marl-supporting-1.jpg
+
 
 ## Citation
 
