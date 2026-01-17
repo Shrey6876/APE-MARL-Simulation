@@ -6,7 +6,7 @@ Based on the research paper content and best practices for GitHub documentation,
 # Algorithmic Predatory Equilibrium: MARL-Based Market Manipulation Simulation
 
 
-## Overview
+## Overview 
 
 This repository contains the complete agent-based simulation framework for the research paper **"Algorithmic Predatory Equilibrium: Decentralized Markets Under Regime Shift from Speed to Cognition"**. The codebase implements a multi-agent reinforcement learning (MARL) environment that empirically validates theoretical propositions about autonomous algorithmic trading strategies in decentralized finance markets.
 
